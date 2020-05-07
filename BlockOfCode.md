@@ -1,10 +1,10 @@
 # Here is a block of code that I wrote for my 2040 INFOTTC class.
-_This Code will produce a text document with a title and content after completing the requried operations._
+_This Code will produce a text document with a title and content after completing the required operations._
+
+
 
 using System;
-
 using System.IO;
-
 namespace DocumentApplication
 {
 
