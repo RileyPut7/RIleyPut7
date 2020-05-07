@@ -1,4 +1,5 @@
-# Here is a block of code that I wrote for this class.
+# Here is a block of code that I wrote for my 2040 INFOTTC class.
+_This Code will produce a text document with a title and content after completing the requried operations._
 
 using System;
 
@@ -55,22 +56,4 @@ namespace DocumentApplication
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Back to Home --> [README.md](https://github.com/RileyPut7/RIleyPut7/edit/master/README.md)
