@@ -9,7 +9,7 @@ Here are the links to all of the Markdown Pages.
 
 [List of Accomplishments in College](https://github.com/RileyPut7/RIleyPut7/blob/master/ListofAccomplishmentsinCollege.md)
 
-[My Career as an Athlete]
+[My Career as an Athlete](https://github.com/RileyPut7/RIleyPut7/blob/master/AthleticCareer.md)
 
 [Coding Expierence]
 
