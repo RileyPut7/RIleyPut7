@@ -7,7 +7,7 @@ Here are the links to all of the Markdown Pages.
 
 [README.md](https://github.com/RileyPut7/RIleyPut7/edit/master/README.md)
 
-[List of Accomplishments in College]
+[List of Accomplishments in College](https://github.com/RileyPut7/RIleyPut7/blob/master/ListofAccomplishmentsinCollege.md)
 
 [My Career as an Athlete]
 
