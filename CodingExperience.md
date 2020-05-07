@@ -1,8 +1,10 @@
+# My living Document of IT Classes
+
 No Classes throught highschool. Some experience from NCAPS in senior year of highschool.
 
-_Not having much highshool experience has really hindered my time in some of these IT classes at Mizzou._
+_Not having much highshool experience has left me confused in some of these IT classes at Mizzou._
 
-Typing skills is also not a strongsuit but I am constantly pushing and will improve my time soon. 
+Typing skill is also not a strongsuit but I am constantly pushing and will improve my WPM soon. 
 
 I have taken these following classes.
 
