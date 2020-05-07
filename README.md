@@ -13,4 +13,6 @@ Here are the links to all of the Markdown Pages.
 
 [Coding Expierence](https://github.com/RileyPut7/RIleyPut7/blob/master/CodingExperience.md)
 
-[Block of Code]
+[Block of Code](https://github.com/RileyPut7/RIleyPut7/blob/master/BlockOfCode.md)
+
+![Good Luck](https://chooselifeatsimpsonhouse.files.wordpress.com/2017/02/fun-2.gif)
