@@ -6,7 +6,7 @@ _Not having much highshool experience has left me confused in some of these IT c
 
 Typing skill is also not a strongsuit but I am constantly pushing and will improve my WPM soon. 
 
-I have taken these following classes.
+I have taken the following classes.
 
 1. INFOTC 1040 / INTRO PROB SOLVE & PROGR
 
