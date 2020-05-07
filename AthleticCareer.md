@@ -10,7 +10,7 @@ I've been having a insane time as a player for the Mizzou Esports Program and wo
 ##### Here's what I rock as my profile picture as a png in this repo.
 
 
-![title](KingChox.png)
+![](KingChox.png)
 
 
 
