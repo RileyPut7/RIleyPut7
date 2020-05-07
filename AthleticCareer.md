@@ -10,6 +10,7 @@ I've been having a insane time as a player for the Mizzou Esports Program and wo
 ##### Here's what I rock as my profile picture.
 
 ![Chox](https://github.com/RileyPut7/RIleyPut7/blob/master/KingChox.png?raw=true)
+![title](KingChox.png)
 
 
 
