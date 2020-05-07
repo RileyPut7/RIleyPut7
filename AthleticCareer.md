@@ -5,6 +5,12 @@ Prodigy, JCCC Cavaliers showcase team, and Cubs.
 
 [Berecruited Page](https://new.berecruited.com/athletes/4157331#athletics)
 
+I've been having a insane time as a player for the Mizzou Esports Program and would like to thank a lot of people for this oppurtunity. We've been flown out to Atlanta to compete for a national championship title as well as playing on stage in front of my mom and sister and about a hundred people. It was the most fun I've had as a gamer. 
+
+### Here's what I rock as my profile picture.
+
+![Chox](https://github.com/RileyPut7/RIleyPut7/blob/master/KingChox.png?raw=true)
+
 
 
 
