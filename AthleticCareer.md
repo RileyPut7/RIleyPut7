@@ -3,7 +3,9 @@ Prodigy, JCCC Cavaliers showcase team, and Cubs.
 
 **Here is a Link to my Berecruited Page I used to use.**
 
-[Berecruited](https://new.berecruited.com/athletes/4157331#athletics)
+[Berecruited Page](https://new.berecruited.com/athletes/4157331#athletics)
+
+
 
 
 
