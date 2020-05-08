@@ -15,4 +15,7 @@ Here are the links to all of the Markdown Pages.
 
 [Block of Code](https://github.com/RileyPut7/RIleyPut7/blob/master/BlockOfCode.md)
 
+[MarkdownFun](https://github.com/RileyPut7/RIleyPut7/blob/master/MarkdownFun.md)
+
 ![Good Luck](https://chooselifeatsimpsonhouse.files.wordpress.com/2017/02/fun-2.gif)
+
